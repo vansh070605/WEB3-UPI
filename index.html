@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome to Web3 UPI</h2>
+
+        <div class="login-options">
+            <button id="emailLoginBtn" class="btn">Login with Email</button>
+            <button id="phoneLoginBtn" class="btn">Login with Phone</button>
+            <button id="googleLoginBtn" class="btn google-btn">Login with Google</button>
+        </div>
+
+        <!-- Email Login -->
+        <div id="emailForm" class="login-form">
+            <input type="email" id="email" placeholder="Enter your email">
+            <input type="password" id="password" placeholder="Enter your password">
+            <button id="loginWithEmail" class="btn">Login</button>
+        </div>
+
+        <!-- Phone Login -->
+        <div id="phoneForm" class="login-form">
+            <input type="tel" id="phoneNumber" placeholder="Enter your phone number">
+            <div id="recaptcha-container"></div>
+            <button id="sendOtp" class="btn">Send OTP</button>
+
+            <input type="text" id="otp" placeholder="Enter OTP">
+            <button id="verifyOtp" class="btn">Verify OTP</button>
+        </div>
+
+        <button id="logoutBtn" class="btn logout-btn">Logout</button>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
