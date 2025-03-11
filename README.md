@@ -20,7 +20,7 @@ A **Web3-based UPI alternative** that simplifies crypto transactions by allowing
 **Wallet Support:** MetaMask, WalletConnect, Coinbase Wallet  
 **Fiat On-Ramp:** Ramp Network, Transak, MoonPay  
 
-## 🔗 How It Works
+## 🔗 How Does It Works
 1. **User links their phone number or ENS domain to their wallet.**  
 2. **Payments are processed via Layer-2 solutions (Polygon, Optimism, Arbitrum)** for fast, low-cost transactions.  
 3. **Merchants accept stablecoins (USDT, USDC, DAI) to avoid crypto volatility.**  
