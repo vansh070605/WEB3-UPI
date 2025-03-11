@@ -1,7 +1,7 @@
 # Web3 UPI Alternative 🚀
 
 ## Overview
-A **Web3-based UPI alternative** that simplifies crypto transactions by allowing users to send and receive payments using **phone numbers or wallet names (ENS, Lens Protocol)** instead of long and complex wallet addresses. This system leverages **Layer-2 scaling solutions (Polygon, Optimism, Arbitrum)** to reduce transaction fees and ensure faster payments.
+Our **Web3-based UPI alternative** that simplifies crypto transactions by allowing users to send and receive payments using **phone numbers or wallet names (ENS, Lens Protocol)** instead of long and complex wallet addresses. This system leverages **Layer-2 scaling solutions (Polygon, Optimism, Arbitrum)** to reduce transaction fees and ensure faster payments.
 
 ## 🔥 Features
 ✅ **Send Crypto Using Phone Numbers or ENS Domains**  
