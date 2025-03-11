@@ -53,13 +53,7 @@ A **Web3-based UPI alternative** that simplifies crypto transactions by allowing
 🔹 **Multi-Factor Authentication for Enhanced Security**  
 
 ## 👥 Contributors
-- **Shashwat Sharma** – Team Lead  
-- **Vansh Agrawal**  
+- **Vansh Agrawal** 
+- **Shashwat Sharma**  
 - **Atharva Bhutada**  
 - **Abhyuday Singh Panwar**  
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-### 🌟 "Making Crypto as Simple as UPI!"
